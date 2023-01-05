@@ -81,7 +81,7 @@ export default {
 							return -1;
 						}
 					});
-					setChatList(data.chats);
+					setChatList(chats);
 				}
 			}
 		});
