@@ -7,6 +7,10 @@ The project is a whatsapp clone with the chat between two people working simulta
 <div>
   <img src="https://user-images.githubusercontent.com/98724767/214407492-90e264dd-2872-4d22-87cc-7affc7d9c551.png" />
 </div>
+</br>
+<div>
+  <img src="https://user-images.githubusercontent.com/98724767/214419097-de20795e-3729-4d30-81ac-ef5127e516e8.png" />
+</div>
 
 ## How to acess the project
 
